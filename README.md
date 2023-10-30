@@ -1,1 +1,1 @@
-# Piza Price Calculator
+# Pizza Price Calculator
